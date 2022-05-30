@@ -1,6 +1,3 @@
-/NAMA = NATHASYA ISNAIN LATIFAH/
-/NIM  = 1121031062/
-/*STRUKTUR DATA PROGRAM DLLC HEAD & TAIL */
 #include <iostream>
 using namespace std;
 
@@ -254,3 +251,7 @@ int main() {
 
     return 0;
 }
+
+/NAMA = NATHASYA ISNAIN LATIFAH/
+/NIM  = 1121031062/
+/*STRUKTUR DATA PROGRAM DLLC HEAD & TAIL */
