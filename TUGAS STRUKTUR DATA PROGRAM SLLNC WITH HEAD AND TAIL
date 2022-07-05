@@ -1,6 +1,6 @@
 //NAMA : Nathasya Isnain Latifah 
 //NIM  : 1121031062
-//TUGAS STRUKTUR DATA PROGRAM DLCC WITH HEAD AND TAIL
+//TUGAS STRUKTUR DATA PROGRAM SLLNC WITH HEAD AND TAIL
 #include <iostream>
 
 using namespace std;
@@ -206,7 +206,7 @@ int main() {
     do {
         cout<<" \n"<<endl;
         cout<<" ========================================================="<<endl;
-        cout<<" = TUGAS STRUKTUR DATA PROGRAM DLLC WITH HEAD & TAIL     ="<<endl;
+        cout<<" = TUGAS STRUKTUR DATA PROGRAM SLLNC WITH HEAD & TAIL     ="<<endl;
         cout<<" =            NAMA : NATHASYA ISNAIN LATIFAH             ="<<endl;
         cout<<" =            NIM  : 1121031062                          ="<<endl;
         cout<<" ========================================================="<<endl;
