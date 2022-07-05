@@ -1,3 +1,6 @@
+//NAMA : Nathasya Isnain latifah
+//NIM  : 1121031062
+//TUGAS STRUKTUR DATA PROGRAM DLLC WITH HEAD & TAIL
 #include <iostream>
 using namespace std;
 
@@ -204,19 +207,21 @@ int main() {
 
     do {
         cout<<" \n"<<endl;
-        cout<<" ==================================="<<endl;
-        cout<<" =    PROGRAM DLLC HEAD & TAIL     ="<<endl;
-        cout<<" ==================================="<<endl;
-        cout<<" = 1. Insert Depan                 ="<<endl;
-        cout<<" = 2. Insert Belakang              ="<<endl;
-        cout<<" = 3. Hapus Depan                  ="<<endl;
-        cout<<" = 4. Hapus Belakang               ="<<endl;
-        cout<<" = 5. Tampil Data                  ="<<endl;
-        cout<<" = 6. Cari Data                    ="<<endl;
-        cout<<" = 7. Hapus semua Data             ="<<endl;
-        cout<<" = 8. Hapus Data                   ="<<endl;
-        cout<<" = 9. Exit                         ="<<endl;
-        cout<<" ==================================="<<endl;
+        cout<<" ====================================================="<<endl;
+        cout<<" =             PROGRAM DLLC HEAD & TAIL              ="<<endl;
+        cout<<" =           NAMA : NATHASYA ISNAIN LATIFAH          ="<<endl;
+        cout<<" =                 NIM  : 1121031062                 ="<<endl;
+        cout<<" ====================================================="<<endl;
+        cout<<" = 1. Insert Depan                                   ="<<endl;
+        cout<<" = 2. Insert Belakang                                ="<<endl;
+        cout<<" = 3. Hapus Depan                                    ="<<endl;
+        cout<<" = 4. Hapus Belakang                                 ="<<endl;
+        cout<<" = 5. Tampil Data                                    ="<<endl;
+        cout<<" = 6. Cari Data                                      ="<<endl;
+        cout<<" = 7. Hapus semua Data                               ="<<endl;
+        cout<<" = 8. Hapus Data                                     ="<<endl;
+        cout<<" = 9. Exit                                           ="<<endl;
+        cout<<" ====================================================="<<endl;
         cout<<" Masukan Pilihan : ";
         cin>>pil;
 
